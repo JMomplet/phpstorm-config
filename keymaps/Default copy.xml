@@ -17,6 +17,12 @@
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorDeleteToWordEnd" />
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
