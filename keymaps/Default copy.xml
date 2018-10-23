@@ -37,6 +37,7 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="GotoSuperMethod" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -60,6 +61,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ShowUmlDiagramPopup">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
