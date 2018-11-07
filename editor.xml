@@ -22,8 +22,9 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\btodojmn\b.*" />
-    <filter name="JMN">
-      <pattern index="2" />
+    <pattern pattern="\btodo\#\d{4}\b.*" />
+    <filter name="Redmine">
+      <pattern index="3" />
     </filter>
   </component>
 </application>
