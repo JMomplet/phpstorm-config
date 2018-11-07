@@ -18,4 +18,12 @@
       </map>
     </option>
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\btodojmn\b.*" />
+    <filter name="JMN">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
