@@ -16,5 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*Repository*</mask>
+    <mask>*</mask>
   </component>
 </application>
