@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="c" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
