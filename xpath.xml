@@ -1,0 +1,10 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="highlightStartTagOnly" value="false" />
+    <option name="SHOW_USAGE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="Scratches and Consoles" type="CUSTOM" />
+    </option>
+    <option name="bHighlightStartTagOnly" value="false" />
+  </component>
+</application>
