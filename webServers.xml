@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="06d09545-7de9-49ac-b3d3-3d1d6381d213" name="Z" url="https://local.exaccta.com">
-        <fileTransfer port="0" mountedRoot="Z:\" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
