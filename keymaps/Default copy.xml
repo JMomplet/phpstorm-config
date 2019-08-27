@@ -2,6 +2,11 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -22,10 +27,6 @@
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
-  <action id="EditorSelectLine">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
-  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -39,6 +40,11 @@
   <action id="ExpressionTypeInfo" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="Images.Editor.ZoomIn">
