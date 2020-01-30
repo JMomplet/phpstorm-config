@@ -1,0 +1,7 @@
+<templateSet group="PHP Extra">
+  <template name="ann" value="/**&#10; * @$END$&#10; */" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
