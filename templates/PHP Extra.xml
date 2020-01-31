@@ -11,4 +11,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="docemmany" value="    /**&#10;     * @MongoDB\EmbedMany(targetDocument=&quot;$NAMESPACE$\$CLASS$&quot;, strategy=&quot;addToSet&quot;)&#10;     * @var $CLASS$[]&#10;     */&#10;    protected $PROP$;" toReformat="false" toShortenFQNames="true">
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
