@@ -1,10 +1,10 @@
 <templateSet group="PHP Extra">
-  <template name="ann" value="/**&#10; * @$END$&#10; */" toReformat="true" toShortenFQNames="true">
+  <template name="ann" value="/**&#10; * @$END$&#10; */" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="docprop" value="/**&#10; * @MongoDB\Field(type=&quot;$TYPE$&quot;)&#10; * @var $TYPE$&#10; */&#10;protected $$$NAME$;" toReformat="true" toShortenFQNames="true">
+  <template name="docprop" value="/**&#10; * @MongoDB\Field(type=&quot;$TYPE$&quot;)&#10; * @var $TYPE$&#10; */&#10;protected $$$NAME$;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
