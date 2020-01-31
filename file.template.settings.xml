@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Symfony ODM Document.php" reformat="true" live-template-enabled="true" />
+      <template name="Symfony ODM Embedded Document.php" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
