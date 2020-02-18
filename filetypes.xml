@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping ext="tmpl" type="PHP" />
       <mapping ext="html" type="PHP" />
-      <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PHP" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
