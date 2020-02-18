@@ -27,6 +27,8 @@
   <action id="Console.TableResult.FindInGrid">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl delete" />
@@ -74,6 +76,14 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="alt down" />
@@ -82,6 +92,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="NextTab" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -89,6 +100,7 @@
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="PreviousTab" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="alt r" />
