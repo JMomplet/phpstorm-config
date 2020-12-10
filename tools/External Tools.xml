@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="Get constant" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Dev/diarioas/get-constant.php" />
+      <option name="PARAMETERS" value="$SelectedText$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dev/diarioas" />
+    </exec>
+  </tool>
 </toolSet>
