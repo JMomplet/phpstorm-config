@@ -27,6 +27,9 @@
   <action id="Console.TableResult.FindInGrid">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorDeleteLine">
@@ -66,6 +69,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="Macro.-&gt;">
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -124,6 +128,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
