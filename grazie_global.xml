@@ -6,5 +6,10 @@
         <option value="Spanish" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="NOM_ADJ_SINGULAR" />
+      </set>
+    </option>
   </component>
 </application>
